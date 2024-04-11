@@ -5,4 +5,4 @@ option to be able to check the code.
 https://drive.google.com/drive/folders/1QY_739TWY4_RoufD-5vxLyOmYW1sTHa5?usp=drive_link
 
 2. Observations: The all_three_models.ipynb file contains the code for all three models mentioned in the article, while testing_HibridModel_newdata.ipynb includes
-the Hybrid Hubert-LSTM model, which achieved the highest performance. This model can be tested on 2 actors using unlabeled data by following the steps from point 1.
+the Hybrid Hubert-LSTM model, which achieved the highest performance. This model can be tested on 2 actors using unlabeled data by following the steps 1.
